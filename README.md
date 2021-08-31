@@ -1,0 +1,2 @@
+# google_colab_ssh
+使用ssh连接google colab不依赖第三方服务中转的配置方法
